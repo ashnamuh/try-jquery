@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html"
+
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ashnamuh/try-jquery/issues"
   },
-  "homepage": "https://github.com/ashnamuh/try-jquery#readme"
+  "homepage": "https://github.com/ashnamuh/try-jquery#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
 }
