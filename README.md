@@ -1,5 +1,22 @@
-# try-jquery
+# try-something
 
-Simple project for practicing jquery
+I can figure out curious things with the project
 
-I can figure out curious things about Jquery
+The project uses Parcel.
+
+## Usage
+
+install dependencies
+```shell
+npm i
+```
+
+run dev server
+```shell
+npm run dev
+```
+
+build
+```shell
+npm run build
+```
