@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/ashnamuh/try-jquery#readme",
   "devDependencies": {
+    "@ashnamuh/eslint-config": "0.0.2",
+    "@babel/core": "^7.5.4",
+    "babel-eslint": "^10.0.2",
+    "eslint": "^6.0.1",
     "jquery": "^3.4.1",
     "lodash": "^4.17.14",
     "moment": "^2.24.0",
